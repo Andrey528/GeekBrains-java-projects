@@ -14,8 +14,13 @@ public class program {
 //        System.out.println(semLesson2.Task1.Task1.getRepeatString(5).length());
 //        System.out.println(semLesson2.Task2.Task2.stringCompression("aaaabbbcdd"));
 //        System.out.println(semLesson2.Task3.Task3.writeString("test"));
-        homeWork2.Task1.Task1.bubbleSort(homeWork2.Task1.Task1.genArray(10));
-        String jsonString = "[{\"фамилия\":\"Иванов\",\"оценка\":\"5\",\"предмет\":\"Математика\"}, {\"фамилия\":\"Петрова\",\"оценка\":\"4\",\"предмет\":\"Информатика\"}, {\"фамилия\":\"Краснов\",\"оценка\":\"5\",\"предмет\":\"Физика\"}]";
-        homeWork2.Task2.Task2.parseJsonString(jsonString);
+//        homeWork2.Task1.Task1.bubbleSort(homeWork2.Task1.Task1.genArray(10));
+//        String jsonString = "[{\"фамилия\":\"Иванов\",\"оценка\":\"5\",\"предмет\":\"Математика\"}, {\"фамилия\":\"Петрова\",\"оценка\":\"4\",\"предмет\":\"Информатика\"}, {\"фамилия\":\"Краснов\",\"оценка\":\"5\",\"предмет\":\"Физика\"}]";
+//        homeWork2.Task2.Task2.parseJsonString(jsonString);
+//        semLesson3.Task1.Task1.sorting(homeWork2.Task1.Task1.genArray(10));
+//        semLesson3.Task2.Task2.countingPlanets();
+//        homeWork3.Task1.Task1.splitSort(homeWork2.Task1.Task1.genArray(9));
+//        homeWork3.Task2.Task2.deleteFromArray(homeWork2.Task1.Task1.genArray(9));
+        homeWork3.Task3.Task3.findQuartels(homeWork2.Task1.Task1.genArray(9));
     }
 }
