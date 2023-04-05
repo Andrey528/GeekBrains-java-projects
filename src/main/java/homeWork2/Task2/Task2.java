@@ -1,7 +1,5 @@
 package homeWork2.Task2;
 
-import scala.util.parsing.combinator.testing.Str;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
