@@ -20,6 +20,6 @@ public class program {
 //        homeWork3.Task1.Task1.splitSort(homeWork2.Task1.Task1.genArray(9));
 //        homeWork3.Task2.Task2.deleteFromArray(homeWork2.Task1.Task1.genArray(9));
 //        homeWork3.Task3.Task3.findQuartels(homeWork2.Task1.Task1.genArray(9));
-        semLesson4.Task1.Task1.callSaveToDB();
+//        semLesson4.Task1.Task1.callSaveToDB();
     }
 }
