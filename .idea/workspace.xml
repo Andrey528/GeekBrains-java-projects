@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="java_hw_4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/semLesson5/Task1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/semLesson5/Task2/Task2.java" afterDir="false" />
+    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="java_semLesson5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWork5/Task1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWork5/Task2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWork5/Task3/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +59,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.semLesson5.Task2.Task2">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork4.Task1.Task1" />
+  <component name="RunManager" selected="Application.Task3">
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork5.Task3.Task3" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork4.Task1.*" />
+          <option name="PATTERN" value="homeWork5.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +73,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semLesson4.Task2.Task2" />
+    <configuration name="homeWork5.Task1.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork5.Task1.Task1" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="semLesson4.Task2.*" />
+          <option name="PATTERN" value="homeWork5.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeWork5.Task2.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork5.Task2.Task2" />
+      <module name="java_projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork5.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,10 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.homeWork5.Task2.Task2" />
+        <item itemvalue="Application.homeWork5.Task1.Task1" />
         <item itemvalue="Application.semLesson5.Task2.Task2" />
         <item itemvalue="Application.semLesson5.Task1.Task1" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680687199799</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="java_semLesson5">
+      <created>1681322001789</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681322001789</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -181,6 +202,7 @@
     <MESSAGE value="java_hw_2" />
     <MESSAGE value="java_hw_3" />
     <MESSAGE value="java_hw_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="java_hw_4" />
+    <MESSAGE value="java_semLesson5" />
+    <option name="LAST_COMMIT_MESSAGE" value="java_semLesson5" />
   </component>
 </project>
