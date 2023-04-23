@@ -1,4 +1,6 @@
-package javaOOP.homeWork1.Task1;
+package javaOOP.homeWork1.models;
+
+import javaOOP.homeWork1.models.base.Drinks;
 
 public class Milk extends Drinks {
     private Double richness;

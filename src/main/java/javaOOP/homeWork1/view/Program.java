@@ -1,6 +1,7 @@
-package javaOOP.homeWork1.Task1;
+package javaOOP.homeWork1.view;
 
-import javaOOP.semLesson1.Task1.Vehicle;
+import javaOOP.homeWork1.models.*;
+import javaOOP.homeWork1.models.base.*;
 
 import java.util.Arrays;
 
@@ -43,7 +44,7 @@ import java.util.Arrays;
  * Реализовать в классе Program, метод выводящий все данные о товаре. Создать в Main все объекты товаров и проверить
  * работу метода, созданного в классе Program
  */
-public class Task1 {
+public class Program {
     public static void main(String[] args) {
         Good[] listOfGoods = {
                 new Bread(25, 2, "27.04", "rye"),

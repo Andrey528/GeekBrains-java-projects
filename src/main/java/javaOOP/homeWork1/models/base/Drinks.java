@@ -1,4 +1,4 @@
-package javaOOP.homeWork1.Task1;
+package javaOOP.homeWork1.models.base;
 
 public class Drinks extends Good {
     private Integer capacity;

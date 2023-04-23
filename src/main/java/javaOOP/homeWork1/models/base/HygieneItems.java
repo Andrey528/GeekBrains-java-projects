@@ -1,4 +1,4 @@
-package javaOOP.homeWork1.Task1;
+package javaOOP.homeWork1.models.base;
 
 public class HygieneItems extends Good {
     private Integer amountInPackage;

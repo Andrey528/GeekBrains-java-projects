@@ -1,4 +1,6 @@
-package javaOOP.homeWork1.Task1;
+package javaOOP.homeWork1.models;
+
+import javaOOP.homeWork1.models.base.HygieneItems;
 
 public class Masks extends HygieneItems {
     public Masks(Integer productPrice, Integer productCount, Integer amountInPackage) {

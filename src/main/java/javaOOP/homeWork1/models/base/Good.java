@@ -1,4 +1,4 @@
-package javaOOP.homeWork1.Task1;
+package javaOOP.homeWork1.models.base;
 
 public abstract class Good {
     private String productName;

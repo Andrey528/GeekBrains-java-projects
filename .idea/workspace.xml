@@ -4,60 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_hw_6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/ChildrensGoods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Diapers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Drinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Eggs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Good.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/HygieneItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Lemonade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Masks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Pacifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/ToiletPaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson1/Task1/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson1/Task1/Bycicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson1/Task1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson1/Task1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson1/Task1/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson1/Task1/Vehicle.java" afterDir="false" />
+    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_OOP_SemLesson1 and gb_OOP_hw1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/models/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/models/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/models/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/models/Stork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/models/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/models/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/models/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/models/base/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/models/base/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/models/base/MakeSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/models/base/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/models/base/Wild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork2/view/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson2/models/JuniorSchoolBoy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson2/models/MiddleSchoolBoy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson2/models/SeniorSchoolBoy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson2/models/base/Aftercare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson2/models/base/Army.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson2/models/base/Cards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson2/models/base/DriverLicense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson2/models/base/GameJuniorMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson2/models/base/SchoolBoy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson2/models/base/Smoking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson2/view/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork1/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork1/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork1/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork1/Task2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork1/Task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork1/Task3/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork1/Task4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork1/Task4/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork2/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork2/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork2/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork2/Task2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork3/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork3/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork3/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork3/Task2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork3/Task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork3/Task3/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork4/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork4/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork5/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork5/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork5/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork5/Task2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork5/Task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork5/Task3/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork5/Task4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork5/Task4/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork6/Task1/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork6/Task1/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork6/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/homeWork6/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson1/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson1/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson1/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson1/Task2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson1/Task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson1/Task3/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson2/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson2/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson2/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson2/Task2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson2/Task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson2/Task3/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson3/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson3/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson3/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson3/Task2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson4/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson4/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson4/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson4/Task2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson5/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson5/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson5/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson5/Task2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson6/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson6/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson6/Task2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson6/Task2/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson6/Task2/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson6/Task2/Owner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/semLesson6/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaIntorduction/semLesson6/Task2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/Bread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/ChildrensGoods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/base/ChildrensGoods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Diapers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/Diapers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Drinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/base/Drinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Eggs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/Eggs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/base/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Good.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/base/Good.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/HygieneItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/base/HygieneItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Lemonade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/Lemonade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Masks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/Masks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Pacifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/Pacifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/view/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/Task1/ToiletPaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork1/models/ToiletPaper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,27 +98,18 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="semLesson6.Task2" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="javaOOP.homeWork2.models" />
+      <recent name="javaOOP.homeWork1.models" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.javaOOP.homeWork1.Task1.Task1">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semLesson6.Task1.Task1" />
+  <component name="RunManager" selected="Application.javaOOP.homeWork2.view.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaOOP.homeWork1.view.Program" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="semLesson6.Task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semLesson6.Task2.Task2" />
-      <module name="java_projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="semLesson6.Task2.*" />
+          <option name="PATTERN" value="javaOOP.homeWork1.view.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaOOP.homeWork1.Task1.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaOOP.homeWork1.Task1.Task1" />
+    <configuration name="javaOOP.homeWork2.view.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaOOP.homeWork2.view.Program" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaOOP.homeWork1.Task1.*" />
+          <option name="PATTERN" value="javaOOP.homeWork2.view.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,13 +156,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="javaOOP.semLesson2.view.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaOOP.semLesson2.view.Task1" />
+      <module name="java_projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaOOP.semLesson2.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.javaOOP.homeWork1.Task1.Task1" />
+        <item itemvalue="Application.javaOOP.homeWork2.view.Program" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.javaOOP.semLesson2.view.Task1" />
         <item itemvalue="Application.javaOOP.semLesson1.Task1.Task1" />
         <item itemvalue="Application.homeWork6.Task1.Task1" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681751378610</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="gb_OOP_SemLesson1 and gb_OOP_hw1">
+      <created>1682189073267</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682189073267</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -281,6 +278,7 @@
     <MESSAGE value="java_gb_hw5" />
     <MESSAGE value="gb_semLesson6" />
     <MESSAGE value="gb_hw_6" />
-    <option name="LAST_COMMIT_MESSAGE" value="gb_hw_6" />
+    <MESSAGE value="gb_OOP_SemLesson1 and gb_OOP_hw1" />
+    <option name="LAST_COMMIT_MESSAGE" value="gb_OOP_SemLesson1 and gb_OOP_hw1" />
   </component>
 </project>

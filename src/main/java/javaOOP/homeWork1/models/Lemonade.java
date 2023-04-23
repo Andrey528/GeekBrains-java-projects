@@ -1,4 +1,6 @@
-package javaOOP.homeWork1.Task1;
+package javaOOP.homeWork1.models;
+
+import javaOOP.homeWork1.models.base.Drinks;
 
 public class Lemonade extends Drinks {
     public Lemonade(Integer productPrice, Integer productCount, Integer capacity) {

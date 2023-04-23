@@ -1,6 +1,4 @@
-package javaOOP.homeWork1.Task1;
-
-import scala.Int;
+package javaOOP.homeWork1.models.base;
 
 public class ChildrensGoods extends Good {
     private Integer minAge;

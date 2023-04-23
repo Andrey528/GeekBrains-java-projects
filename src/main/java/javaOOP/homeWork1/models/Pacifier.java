@@ -1,4 +1,6 @@
-package javaOOP.homeWork1.Task1;
+package javaOOP.homeWork1.models;
+
+import javaOOP.homeWork1.models.base.ChildrensGoods;
 
 public class Pacifier extends ChildrensGoods {
     public Pacifier(Integer productPrice, Integer productCount, Integer minAge, Boolean hypoallergenic) {
