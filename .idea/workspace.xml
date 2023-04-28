@@ -4,17 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_OOP_SemLesson2 and gb_OOP_hw2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson3/models/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson3/models/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson3/models/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson3/models/base/CurveLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson3/models/base/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson3/models/base/Perimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson3/models/base/Polygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson3/view/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson3/view/Repository.java" afterDir="false" />
+    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_OOP_SemLesson3 and gb_OOP_hw3">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork4/models/ArrayHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork4/models/mathArrayMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork4/presenters/ConfigPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork4/views/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork4/views/base/IView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork4/views/base/ReadUserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLessom4and5/converters/ModelToXmlConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLessom4and5/converters/base/ModelToTextFormatConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLessom4and5/files/FileWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLessom4and5/files/XmlFileWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLessom4and5/models/base/Convertable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLessom4and5/models/base/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLessom4and5/presenters/ConfigsPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLessom4and5/views/base/IView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +37,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -39,10 +50,10 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -74,7 +85,20 @@
       <recent name="javaOOP.homeWork1.models" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.javaOOP.semLesson3.view.Program">
+  <component name="RunManager" selected="Application.javaOOP.homeWork4.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaOOP.semLessom4and5.Main" />
+      <module name="java_projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaOOP.semLessom4and5.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaOOP.homeWork1.view.Program" />
       <module name="java_projects" />
@@ -101,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaOOP.semLesson1.Task1.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaOOP.semLesson1.Task1.Task1" />
+    <configuration name="javaOOP.homeWork4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaOOP.homeWork4.Main" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaOOP.semLesson1.Task1.*" />
+          <option name="PATTERN" value="javaOOP.homeWork4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaOOP.semLesson2.view.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaOOP.semLesson2.view.Task1" />
+    <configuration name="javaOOP.semLessonAndHW3.view.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaOOP.semLessonAndHW3.view.Program" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaOOP.semLesson2.view.*" />
+          <option name="PATTERN" value="javaOOP.semLessonAndHW3.view.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,26 +151,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaOOP.semLesson3.view.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaOOP.semLesson3.view.Program" />
-      <module name="java_projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaOOP.semLesson3.view.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.javaOOP.semLesson3.view.Program" />
+        <item itemvalue="Application.javaOOP.homeWork4.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.javaOOP.semLessonAndHW3.view.Program" />
         <item itemvalue="Application.javaOOP.homeWork2.view.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.javaOOP.semLesson2.view.Task1" />
-        <item itemvalue="Application.javaOOP.semLesson1.Task1.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682268783590</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="gb_OOP_SemLesson3 and gb_OOP_hw3">
+      <created>1682440849645</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682440849645</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,6 +287,7 @@
     <MESSAGE value="gb_hw_6" />
     <MESSAGE value="gb_OOP_SemLesson1 and gb_OOP_hw1" />
     <MESSAGE value="gb_OOP_SemLesson2 and gb_OOP_hw2" />
-    <option name="LAST_COMMIT_MESSAGE" value="gb_OOP_SemLesson2 and gb_OOP_hw2" />
+    <MESSAGE value="gb_OOP_SemLesson3 and gb_OOP_hw3" />
+    <option name="LAST_COMMIT_MESSAGE" value="gb_OOP_SemLesson3 and gb_OOP_hw3" />
   </component>
 </project>
