@@ -27,7 +27,7 @@
 //    private PrinterSetting readPrinterSettings(){
 //        view.showMessage("Enter option name");
 //        String name = view.readString();
-//        view.showMessage("Enter option name");
+//        view.showMessage("Enter option value");
 //        String value = view.readString();
 //        return new PrinterSetting(name, value);
 //    }
