@@ -4,8 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_OOP_hw5">
+    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_OOP_semLesson6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task1/Models/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task1/Models/Save.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task2/models/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task2/models/NoteCollector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task2/models/NoteToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task2/models/Savable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task2/models/SavingFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task2/presenters/ConfigPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task2/views/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task2/views/IView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task2/views/ReadUSerInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task1/Models/Persister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task1/Models/Persister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task1/Models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork6/Task1/Models/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +61,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Jack/IdeaProjects/java_projects",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jack/IdeaProjects/java_projects&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="semLesson6.Task2" />
@@ -70,13 +85,13 @@
       <recent name="javaOOP.homeWork1.models" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.javaOOP.semLesson6.Solid7Dip.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaOOP.semLesson6.Solid3Ocp1.Main" />
+  <component name="RunManager" selected="Application.javaOOP.homeWork6.Task2.Main">
+    <configuration name="javaOOP.homeWork6.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaOOP.homeWork6.Task2.Main" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaOOP.semLesson6.Solid3Ocp1.*" />
+          <option name="PATTERN" value="javaOOP.homeWork6.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.javaOOP.homeWork6.Task2.Main" />
         <item itemvalue="Application.javaOOP.semLesson6.Solid7Dip.Main" />
         <item itemvalue="Application.javaOOP.semLesson6.Solid6Isp1.Main" />
         <item itemvalue="Application.javaOOP.semLesson6.Solid5Lsp2.Main" />
         <item itemvalue="Application.javaOOP.semLesson6.Solid4Lsp1.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +286,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682949733153</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="gb_OOP_semLesson6">
+      <created>1685349060468</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1685349060468</updated>
+    </task>
+    <task id="LOCAL-00017" summary="gb_OOP_semLesson6">
+      <created>1685349117364</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1685349117364</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -289,6 +318,7 @@
     <MESSAGE value="gb_OOP_SemLesson3 and gb_OOP_hw3" />
     <MESSAGE value="gb_OOP_SemLesson4And5 and gb_OOP_hw4" />
     <MESSAGE value="gb_OOP_hw5" />
-    <option name="LAST_COMMIT_MESSAGE" value="gb_OOP_hw5" />
+    <MESSAGE value="gb_OOP_semLesson6" />
+    <option name="LAST_COMMIT_MESSAGE" value="gb_OOP_semLesson6" />
   </component>
 </project>
