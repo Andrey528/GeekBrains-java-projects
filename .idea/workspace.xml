@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_OOP_homeWork6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson7/Adapter/AdapterSensorTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson7/DecoratorFactory/CalculableFactoryLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson7/DecoratorFactory/CalculatorLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson7/DecoratorFactory/ILog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson7/DecoratorFactory/LogConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/semLesson7/Observer/Intern.java" afterDir="false" />
+    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_OOP_semLesson7">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/Armor/Armor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/Armor/Defend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/Armor/SetDefendPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/Armor/Shield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/classOfPerson/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/classOfPerson/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/classOfPerson/ClassOfPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/classOfPerson/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/weapon/Bow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/weapon/Damage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/weapon/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/presenters/ConfigPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/views/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/views/IView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/views/ReadUserInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -299,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685520151780</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="gb_OOP_semLesson7">
+      <created>1685815174937</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1685815174937</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -319,6 +336,7 @@
     <MESSAGE value="gb_OOP_hw5" />
     <MESSAGE value="gb_OOP_semLesson6" />
     <MESSAGE value="gb_OOP_homeWork6" />
-    <option name="LAST_COMMIT_MESSAGE" value="gb_OOP_homeWork6" />
+    <MESSAGE value="gb_OOP_semLesson7" />
+    <option name="LAST_COMMIT_MESSAGE" value="gb_OOP_semLesson7" />
   </component>
 </project>
