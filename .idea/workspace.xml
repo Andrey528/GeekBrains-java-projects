@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_OOP_HW7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/models/FileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/models/JsonMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/models/Toy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/models/ToyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/presenters/ConfigPresenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/views/ConsoleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/views/IView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/views/ReadUserInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_test_toys_raffle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -316,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685819421315</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="gb_test_toys_raffle">
+      <created>1688886823714</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1688886823714</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -338,6 +334,7 @@
     <MESSAGE value="gb_OOP_homeWork6" />
     <MESSAGE value="gb_OOP_semLesson7" />
     <MESSAGE value="gb_OOP_HW7" />
-    <option name="LAST_COMMIT_MESSAGE" value="gb_OOP_HW7" />
+    <MESSAGE value="gb_test_toys_raffle" />
+    <option name="LAST_COMMIT_MESSAGE" value="gb_test_toys_raffle" />
   </component>
 </project>
