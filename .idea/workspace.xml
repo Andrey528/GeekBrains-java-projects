@@ -4,23 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_OOP_semLesson7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/Armor/Armor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/Armor/Defend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/Armor/SetDefendPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/Armor/Shield.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/classOfPerson/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/classOfPerson/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/classOfPerson/ClassOfPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/classOfPerson/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/weapon/Bow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/weapon/Damage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/models/weapon/Sword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/presenters/ConfigPresenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/views/ConsoleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/views/IView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaOOP/homeWork7/views/ReadUserInput.java" afterDir="false" />
+    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_OOP_HW7">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/models/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/models/JsonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/models/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/models/ToyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/presenters/ConfigPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/views/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/views/IView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaToyRaffle/views/ReadUserInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +80,7 @@
       <recent name="javaOOP.homeWork1.models" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.javaOOP.semLesson7.Observer.Main">
+  <component name="RunManager" selected="Application.javaToyRaffle.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaOOP.semLesson7.Adapter.Main" />
       <module name="java_projects" />
@@ -107,19 +100,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javaOOP.homeWork6.Task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javaOOP.semLesson6.Solid7Dip.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaOOP.semLesson6.Solid7Dip.Main" />
-      <module name="java_projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaOOP.semLesson6.Solid7Dip.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,6 +133,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="javaToyRaffle.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaToyRaffle.Main" />
+      <module name="java_projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaToyRaffle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.javaToyRaffle.Main" />
         <item itemvalue="Application.javaOOP.semLesson7.Observer.Main" />
         <item itemvalue="Application.javaOOP.semLesson7.DecoratorFactory.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.javaOOP.homeWork6.Task2.Main" />
-        <item itemvalue="Application.javaOOP.semLesson6.Solid7Dip.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685815174937</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="gb_OOP_HW7">
+      <created>1685819421315</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1685819421315</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -337,6 +337,7 @@
     <MESSAGE value="gb_OOP_semLesson6" />
     <MESSAGE value="gb_OOP_homeWork6" />
     <MESSAGE value="gb_OOP_semLesson7" />
-    <option name="LAST_COMMIT_MESSAGE" value="gb_OOP_semLesson7" />
+    <MESSAGE value="gb_OOP_HW7" />
+    <option name="LAST_COMMIT_MESSAGE" value="gb_OOP_HW7" />
   </component>
 </project>
