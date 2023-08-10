@@ -13,7 +13,7 @@ public class Main {
         list.add(9);
 
         list.print();
-        list.quickSort();
+        list.revert();
         list.print();
     }
 }

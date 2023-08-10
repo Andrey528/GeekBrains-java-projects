@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_algorith_heapsort added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaAlgorithm/linkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaAlgorithm/linkedList/models/LinkedList.java" afterDir="false" />
+    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_algorithm_linkedList added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaAlgorithm/doublyLinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaAlgorithm/doublyLinkedList/models/DoublyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaAlgorithm/linkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaAlgorithm/linkedList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaAlgorithm/linkedList/models/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaAlgorithm/linkedList/models/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +75,20 @@
       <recent name="javaOOP.homeWork1.models" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.javaAlgorithm.linkedList.Main">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAlgorithm.doublyLinkedList.Main" />
+      <module name="java_projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaAlgorithm.doublyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="javaAlgorithm.heapsort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaAlgorithm.heapsort.Main" />
       <module name="java_projects" />
@@ -93,19 +108,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javaAlgorithm.linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javaOOP.semLesson7.DecoratorFactory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaOOP.semLesson7.DecoratorFactory.Main" />
-      <module name="java_projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaOOP.semLesson7.DecoratorFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.javaAlgorithm.linkedList.Main" />
         <item itemvalue="Application.javaAlgorithm.heapsort.Main" />
         <item itemvalue="Application.javaToyRaffle.Main" />
         <item itemvalue="Application.javaOOP.semLesson7.Observer.Main" />
-        <item itemvalue="Application.javaOOP.semLesson7.DecoratorFactory.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691652345122</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="gb_algorithm_linkedList added">
+      <created>1691657097568</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1691657097568</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -355,6 +364,7 @@
     <MESSAGE value="gb_test_toys_raffle" />
     <MESSAGE value="gb_test_toys_raffle comments update" />
     <MESSAGE value="gb_algorith_heapsort added" />
-    <option name="LAST_COMMIT_MESSAGE" value="gb_algorith_heapsort added" />
+    <MESSAGE value="gb_algorithm_linkedList added" />
+    <option name="LAST_COMMIT_MESSAGE" value="gb_algorithm_linkedList added" />
   </component>
 </project>

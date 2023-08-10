@@ -136,6 +136,35 @@ public class LinkedList<T extends Comparable<T>> {
         }
     }
 
+    public void revert() {
+        if (root != null && root.next != null)
+            revert(root.next, root);
+    }
+
+    private void revert(Node currentNode, Node previousNode) {
+        if (currentNode.next == null)
+            root = currentNode;
+        else
+            revert(currentNode.next, currentNode);
+        currentNode.next = previousNode;
+        previousNode.next = null;
+    }
+
+    public void push(T value) {
+        Node node = new Node(value);
+        node.next = root;
+        root = node;
+    }
+
+    public T pop() {
+        T result = null;
+        if (root != null) {
+            result = root.value;
+            root = root.next;
+        }
+        return result;
+    }
+
     public void print() {
         Node currentNode = root;
         System.out.print("[ ");
