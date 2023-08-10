@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_test_toys_raffle" />
+    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_test_toys_raffle comments update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaAlgorithm/heapsort/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -69,7 +72,7 @@
       <recent name="javaOOP.homeWork1.models" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.javaToyRaffle.Main">
+  <component name="RunManager" selected="Application.javaAlgorithm.heapsort.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaOOP.semLesson7.Adapter.Main" />
       <module name="java_projects" />
@@ -83,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaOOP.homeWork6.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaOOP.homeWork6.Task2.Main" />
+    <configuration name="javaAlgorithm.heapsort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAlgorithm.heapsort.Main" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaOOP.homeWork6.Task2.*" />
+          <option name="PATTERN" value="javaAlgorithm.heapsort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.javaAlgorithm.heapsort.Main" />
         <item itemvalue="Application.javaToyRaffle.Main" />
         <item itemvalue="Application.javaOOP.semLesson7.Observer.Main" />
         <item itemvalue="Application.javaOOP.semLesson7.DecoratorFactory.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.javaOOP.homeWork6.Task2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688886823714</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="gb_test_toys_raffle comments update">
+      <created>1688887732232</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1688887732232</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -335,6 +345,7 @@
     <MESSAGE value="gb_OOP_semLesson7" />
     <MESSAGE value="gb_OOP_HW7" />
     <MESSAGE value="gb_test_toys_raffle" />
-    <option name="LAST_COMMIT_MESSAGE" value="gb_test_toys_raffle" />
+    <MESSAGE value="gb_test_toys_raffle comments update" />
+    <option name="LAST_COMMIT_MESSAGE" value="gb_test_toys_raffle comments update" />
   </component>
 </project>
