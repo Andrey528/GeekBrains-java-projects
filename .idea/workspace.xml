@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_algorithm_HashTable added&#10;gb_algorithm_BinaryTree added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/sem1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/sem2/Main.java" afterDir="false" />
+    <list default="true" id="1418573e-43bd-4c66-bbf9-d3bb155c00a5" name="Changes" comment="gb_exceptions_sem1/2_hw1_added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw3/exceptions/CheckUserNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw3/exceptions/ConvertToIntException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw3/exceptions/IOExceptionWithCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw3/exceptions/InsufficientlyDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw3/models/FileWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw3/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw3/models/base/Savable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw3/presenters/ConfigPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw3/views/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw3/views/base/IView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/hw3/views/base/ReadUserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/sem3/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExceptionsCurse/sem3/task2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +85,7 @@
       <recent name="javaOOP.homeWork1.models" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaExceptionsCurse.hw2.Main">
+  <component name="RunManager" selected="Application.JavaExceptionsCurse.hw3.Main">
     <configuration name="JavaExceptionsCurse.hw2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExceptionsCurse.hw2.Main" />
       <module name="java_projects" />
@@ -88,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaExceptionsCurse.sem1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExceptionsCurse.sem1.Main" />
+    <configuration name="JavaExceptionsCurse.hw3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExceptionsCurse.hw3.Main" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExceptionsCurse.sem1.*" />
+          <option name="PATTERN" value="JavaExceptionsCurse.hw3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaAlgorithm.BinaryTree.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaAlgorithm.BinaryTree.Main" />
+    <configuration name="JavaExceptionsCurse.sem3.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExceptionsCurse.sem3.task2.Main" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaAlgorithm.BinaryTree.*" />
+          <option name="PATTERN" value="JavaExceptionsCurse.sem3.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaAlgorithm.hashMap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaAlgorithm.hashMap.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExceptionsCurse.sem3.task1.Main" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaAlgorithm.hashMap.*" />
+          <option name="PATTERN" value="JavaExceptionsCurse.sem3.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaExceptionsCurse.hw3.Main" />
+        <item itemvalue="Application.JavaExceptionsCurse.sem3.task2.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.JavaExceptionsCurse.hw2.Main" />
         <item itemvalue="Application.JavaExceptionsCurse.sem2.Main" />
-        <item itemvalue="Application.JavaExceptionsCurse.sem1.Main" />
-        <item itemvalue="Application.javaAlgorithm.BinaryTree.Main" />
-        <item itemvalue="Application.javaAlgorithm.hashMap.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691918835876</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="gb_exceptions_sem1/2_hw1_added">
+      <created>1693281635211</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1693281635211</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -380,6 +398,7 @@
     <MESSAGE value="gb_algorithm_linkedList added" />
     <MESSAGE value="gb_algorithm_doublyLinkedList added" />
     <MESSAGE value="gb_algorithm_HashTable added&#10;gb_algorithm_BinaryTree added" />
-    <option name="LAST_COMMIT_MESSAGE" value="gb_algorithm_HashTable added&#10;gb_algorithm_BinaryTree added" />
+    <MESSAGE value="gb_exceptions_sem1/2_hw1_added" />
+    <option name="LAST_COMMIT_MESSAGE" value="gb_exceptions_sem1/2_hw1_added" />
   </component>
 </project>
